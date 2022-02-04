@@ -1,0 +1,2 @@
+# E-learning-_management_system
+in this project we have created a PHP based E-learning platform.also we merged python - flask for the execution ,its a project where user can enroll the couses and learn directly from our platform . it was a prototype therefore we have just added few couses on it  , admin have access to all this couses and he can add or delete those cources directly from admin panel. 
